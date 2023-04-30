@@ -1,3 +1,6 @@
+#Create a small command-line program in Python to calculate the total invoice amount for the below purchases - 
+
+
 book1=int(input("How many Introduction to Python books are required: "))
 book2=int(input("How many  Python Libraries Cookbooks are required: "))
 book3=int(input("How many Data Science in Python books are required: "))
